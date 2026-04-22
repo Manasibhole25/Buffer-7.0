@@ -197,23 +197,3 @@ npm run dev
 | `isolated_nodes` | Blocked nodes with isolation reason |
 | `logs` | Full system event log with severity |
 | `attack_patterns` | Self-learned patterns with occurrence count |
-
----
-
-## 🎥 Demo Video
-
-> 📹 **[Click here to watch the project demo](#)**
->
-> *(Replace `#` with your actual video link — YouTube, Google Drive, or Loom)*
-
----
-
-## 👤 Author
-
-**Sruja** — Computer Engineering Student
-- Project: Smart Cybersecurity Detection System (SCDS)
-- Course Submission — Data Structures & Cybersecurity
-
----
-
-*Built with Node.js · Express · MySQL · Chart.js*
